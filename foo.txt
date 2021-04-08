@@ -1,1 +1,1 @@
-hello foobar!
+ignoring index
